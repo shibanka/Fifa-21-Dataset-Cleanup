@@ -40,8 +40,10 @@ The cleaning process involved resolving complex issues critical for a Data Analy
 
 **📁 Repository Contents**
 
-- fifa_cleaning.ipynb: The complete Python cleaning script used in the project.
+## 📁 Repository Contents
 
-- fifa21_raw_data.csv: The original, raw dataset.
+* [`fifa_cleaning.ipynb`](fifa_cleaning.ipynb): The complete Python cleaning script used in the project.
 
-- fifa21_cleaned_data.csv: The final, analysis-ready dataset ready for visualization and modeling.
+* [`fifa21_raw_data.csv`](fifa21_raw_data.csv): The original, raw dataset.
+
+* [`fifa21_cleaned_data.csv`](fifa21_cleaned_data.csv): The final, analysis-ready dataset.
