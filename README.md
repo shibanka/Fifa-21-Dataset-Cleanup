@@ -6,11 +6,11 @@ This repository contains a data cleaning project focused on the raw FIFA 21 data
 
 🛠️ Key Technologies
 
-Language: Python
+- Language: Python
 
-Libraries: Pandas, NumPy
+- Libraries: Pandas, NumPy
 
-Environment: Jupyter Notebook / Jupyter Lab
+- Environment: Jupyter Notebook / Jupyter Lab
 
 **🧹 Data Cleaning Highlights**
 
