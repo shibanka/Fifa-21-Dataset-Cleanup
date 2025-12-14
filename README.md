@@ -38,8 +38,6 @@ The cleaning process involved resolving complex issues critical for a Data Analy
 
 - Converted the Joined column to a standard datetime object.
 
-**📁 Repository Contents**
-
 ## 📁 Repository Contents
 
 * [`fifa_cleaning.ipynb`](fifa_cleaning.ipynb): The complete Python cleaning script used in the project.
